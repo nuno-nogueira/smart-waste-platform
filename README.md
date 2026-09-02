@@ -22,8 +22,8 @@ The main goal of the project is to develop a web application that consumes and p
 ## 🚀 Getting Started
 
 ```
-git clone https://github.com/nuno-nogueira/API_web_app.git
-cd API_web_app
+git clone https://github.com/nuno-nogueira/smart-waste-platform.git
+cd smart-waste-platform
 ```
 
 ### Install dependencies
