@@ -15,9 +15,9 @@ The main goal of the project is to develop a web application that consumes and p
 
 ## 🛠️ Technologies
 
-- ** Front-end ** - Vue.js & Vuetify;
-- ** Back-end ** - Node.js & Express;
-- ** Database ** - MySQL.
+- **Front-end** - Vue.js & Vuetify;
+- **Back-end** - Node.js & Express;
+- **Database** - MySQL.
 
 ## 🚀 Getting Started
 
