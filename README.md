@@ -13,6 +13,13 @@ The main goal of the project is to develop a web application that consumes and p
 - Data retrieval and manipulation through HTTP requests;
 - Back-end API for handling application functionality;
 
+![Homepage](screenshots/homepage.png)
+!Collection Points Map](screenshots/collection-points-map.png)
+![Sign Up Form](screenshots/sign-up-form.png)
+![Monthly Garbage Graph](screenshots/monthly-garbage-graph.png)
+![Collection Points Table](screenshots/collection-points-list.png)
+![Admin Page](screenshots/admin-page.png)
+
 ## 🛠️ Technologies
 
 - **Front-end** - Vue.js & Vuetify;
