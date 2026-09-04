@@ -14,7 +14,7 @@ The main goal of the project is to develop a web application that consumes and p
 - Back-end API for handling application functionality;
 
 ![Homepage](screenshots/homepage.png)
-!Collection Points Map](screenshots/collection-points-map.png)
+![Collection Points Map](screenshots/collection-points-map.png)
 ![Sign Up Form](screenshots/sign-up-form.png)
 ![Monthly Garbage Graph](screenshots/monthly-garbage-graph.png)
 ![Collection Points Table](screenshots/collection-guides-list.png)
